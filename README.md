@@ -23,7 +23,7 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 ## Learn More
-In React this app there are two folders : 
+In this React  app there are two folders : 
 Calculator and CalculatorL
 In first calculator learn about the made very simplest way to build a calculator with the help of 
 handleClick also how clear all digits and backspace the digit.
